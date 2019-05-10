@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48b95a9a-5136-4c33-ae32-65a7120e4d9a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets_list/shareholders_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="392" column="21" lean-forward="true" selection-start-line="392" selection-start-column="21" selection-end-line="392" selection-end-column="21" />
+              <folding>
+                <element signature="e#14#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets_list/changes_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="322" column="37" selection-start-line="322" selection-start-column="37" selection-end-line="322" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets_list/runcycle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets_list/tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5460">
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>append</find>
+      <find>exit</find>
+      <find>get_data</find>
+      <find>name_file</find>
+      <find>time_dict.json</find>
+      <find>time_dict2.json</find>
+      <find>search?key=</find>
+      <find>山东和信会计师事务所(特殊普通合伙)</find>
+      <find>张富平</find>
+      <find>test</find>
+      <find>tostring</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\接单\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets_list/毕马威华振会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/大华会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/大信会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/德勤华永会计师事务所(特殊普通合伙)/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/福建华兴会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/华普天健会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/华普天健会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/上会会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/中兴财光华会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/中准会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/中喜会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/中审华会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/亚太（集团）会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/众华会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/信永中和会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/信永中和会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/利安达会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/利安达会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/四川华信（集团）会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/天健会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/天职国际会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/天衡会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/山东和信会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/希格玛会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/希格玛会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/江苏公证天业会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/江苏苏亚金诚会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/瑞华会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/立信中联会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/立信会计师事务所（特殊普通合伙）/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/立信会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/致同会计师事务所（特殊普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/重庆华税会计师事务所（普通合伙）/union.txt" />
+        <option value="$PROJECT_DIR$/assets_list/assets/Shareholders_infor.py" />
+        <option value="$PROJECT_DIR$/assets_list/Shareholders_infor.py" />
+        <option value="$PROJECT_DIR$/assetsChange/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/assets_list/main.py" />
+        <option value="$PROJECT_DIR$/assets_list/transfer.py" />
+        <option value="$PROJECT_DIR$/assets_list/get_company_name.py" />
+        <option value="$PROJECT_DIR$/backup/compane_list_back.py" />
+        <option value="$PROJECT_DIR$/assets_list/out/activate_compane_url.json" />
+        <option value="$PROJECT_DIR$/assets_list/out/activate_compane_url.txt" />
+        <option value="$PROJECT_DIR$/assets_list/compane_list.py" />
+        <option value="$PROJECT_DIR$/assets_list/compane_url.py" />
+        <option value="$PROJECT_DIR$/assets_list/out/compane_url.json" />
+        <option value="$PROJECT_DIR$/assets_list/config/company_url.json" />
+        <option value="$PROJECT_DIR$/assets_list/runcycle.py" />
+        <option value="$PROJECT_DIR$/assets_list/tools.py" />
+        <option value="$PROJECT_DIR$/assets_list/changes_info.py" />
+        <option value="$PROJECT_DIR$/assets_list/shareholders_info.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="219" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="changes_info.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="changes_info.py" type="8704e2dd:PyFileNode" />
+              <item name="MakeTransfer" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="shareholders_info.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="shareholders_info.py" type="8704e2dd:PyFileNode" />
+              <item name="MyRequests" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="tools.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_6" type="462c0819:PsiDirectoryNode" />
+              <item name="assets_list" type="462c0819:PsiDirectoryNode" />
+              <item name="tools.py" type="8704e2dd:PyFileNode" />
+              <item name="Tools" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="b5f07198:RTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="excel.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="excel.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (code_4) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda3" type="b5f07198:RTreeStructureProvider$1" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="openpyxl" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="excel.py" type="8704e2dd:PyFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\接单\code_3\assets_list" />
+      <recent name="E:\接单\code_3\backup" />
+      <recent name="E:\接单\code_3\assets_list\config" />
+      <recent name="E:\接单\code_3\assets_list\重庆华税会计师事务所（普通合伙）" />
+      <recent name="E:\接单\code_3\assets_list\致同会计师事务所（特殊普通合伙）" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\接单\code_3\backup" />
+      <recent name="E:\接单\code_3\assets_list\out" />
+      <recent name="E:\接单\code_3\assets_list" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.changes_info">
+    <configuration name="changes_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets_list/changes_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compane_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets_list/compane_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runcycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets_list/runcycle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shareholders_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets_list/shareholders_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assets_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assets_list/tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.changes_info" />
+        <item itemvalue="Python.shareholders_info" />
+        <item itemvalue="Python.tools" />
+        <item itemvalue="Python.runcycle" />
+        <item itemvalue="Python.compane_url" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48b95a9a-5136-4c33-ae32-65a7120e4d9a" name="Default Changelist" comment="" />
+      <created>1554813223487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554813223487</updated>
+      <workItem from="1554813224917" duration="12444000" />
+      <workItem from="1554900913773" duration="9176000" />
+      <workItem from="1554983592108" duration="10701000" />
+      <workItem from="1555146516828" duration="20805000" />
+      <workItem from="1555208525233" duration="4461000" />
+      <workItem from="1555501824123" duration="8200000" />
+      <workItem from="1555588001737" duration="4838000" />
+      <workItem from="1555594134479" duration="2738000" />
+      <workItem from="1555676279538" duration="5705000" />
+      <workItem from="1555741633782" duration="16817000" />
+      <workItem from="1555816331021" duration="27230000" />
+      <workItem from="1555936117681" duration="8651000" />
+      <workItem from="1556017743572" duration="14830000" />
+      <workItem from="1556106446776" duration="6607000" />
+      <workItem from="1556154569044" duration="1375000" />
+      <workItem from="1556169569463" duration="125000" />
+      <workItem from="1556169794975" duration="10261000" />
+      <workItem from="1556192632659" duration="7640000" />
+      <workItem from="1556455952131" duration="4014000" />
+      <workItem from="1556535331647" duration="148000" />
+      <workItem from="1556535535253" duration="15312000" />
+      <workItem from="1556607665785" duration="1757000" />
+      <workItem from="1556625002097" duration="6908000" />
+      <workItem from="1557143423323" duration="12606000" />
+      <workItem from="1557212006460" duration="7343000" />
+      <workItem from="1557230331393" duration="8229000" />
+      <workItem from="1557281915494" duration="18244000" />
+      <workItem from="1557316138513" duration="11119000" />
+      <workItem from="1557403314282" duration="9942000" />
+      <workItem from="1557467962013" duration="4982000" />
+      <workItem from="1557487741584" duration="6152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="287215000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="73" y="-8" width="1855" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1643454" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22533749" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27385893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32987553" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32987553" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32987553" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15933147" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987553" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20643154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32987553" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_4$compane_url.coverage" NAME="compane_url Coverage Results" MODIFIED="1556172828258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$get_company_name.coverage" NAME="get_company_name Coverage Results" MODIFIED="1555945651162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_5$shareholders_info.coverage" NAME="shareholders_info Coverage Results" MODIFIED="1557238212719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1555847792772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_5$tools.coverage" NAME="tools Coverage Results" MODIFIED="1557233467261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$main.coverage" NAME="main Coverage Results" MODIFIED="1555838330709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_3$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1555745027281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assetsChange" />
+    <SUITE FILE_PATH="coverage/code_3$compane_list__1_.coverage" NAME="compane_list (1) Coverage Results" MODIFIED="1556113268725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_6$shareholders_info.coverage" NAME="shareholders_info Coverage Results" MODIFIED="1557493685635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$transfer__4_.coverage" NAME="transfer (4) Coverage Results" MODIFIED="1555172631380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/江苏苏亚金诚会计师事务所（特殊普通合伙）" />
+    <SUITE FILE_PATH="coverage/code_4$shareholders_info.coverage" NAME="shareholders_info Coverage Results" MODIFIED="1556636917882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_4$runcycle.coverage" NAME="runcycle Coverage Results" MODIFIED="1556628534945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$compane_list.coverage" NAME="compane_list Coverage Results" MODIFIED="1556030356500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$make_folder.coverage" NAME="make_folder Coverage Results" MODIFIED="1554814391781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$transfer.coverage" NAME="transfer Coverage Results" MODIFIED="1555211925276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/立信会计师事务所（特殊普通合伙）" />
+    <SUITE FILE_PATH="coverage/code_3$transfer__5_.coverage" NAME="transfer (5) Coverage Results" MODIFIED="1555172765908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/瑞华会计师事务所（特殊普通合伙）" />
+    <SUITE FILE_PATH="coverage/code_3$transfer__3_.coverage" NAME="transfer (3) Coverage Results" MODIFIED="1555852344525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$Shareholders_infor.coverage" NAME="Shareholders_infor Coverage Results" MODIFIED="1555685546732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/assets" />
+    <SUITE FILE_PATH="coverage/code_3$transfer__2_.coverage" NAME="transfer (2) Coverage Results" MODIFIED="1555212161838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/致同会计师事务所（特殊普通合伙）" />
+    <SUITE FILE_PATH="coverage/code_3$Shareholders_infor__1_.coverage" NAME="Shareholders_infor (1) Coverage Results" MODIFIED="1555688081498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_4$tools.coverage" NAME="tools Coverage Results" MODIFIED="1556551364778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_6$changes_info.coverage" NAME="changes_info Coverage Results" MODIFIED="1557494177109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_6$tools.coverage" NAME="tools Coverage Results" MODIFIED="1557471383567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list" />
+    <SUITE FILE_PATH="coverage/code_3$transfer__1_.coverage" NAME="transfer (1) Coverage Results" MODIFIED="1555212120085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets_list/立信中联会计师事务所（特殊普通合伙）" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/spiders/firm_name.json" />
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/spiders/url_dict.json" />
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/items.py" />
+    <entry file="file://$PROJECT_DIR$/backup/build_dict.json" />
+    <entry file="file://$PROJECT_DIR$/backup/name_dict.json" />
+    <entry file="file://$PROJECT_DIR$/backup/url_dict.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/union.txt" />
+    <entry file="file://$PROJECT_DIR$/backup/Shareholders_infor.py" />
+    <entry file="file://D:/development_tools/Anaconda3/Lib/site-packages/sortedcontainers/sorteddict.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/config/url_dict.json" />
+    <entry file="file://D:/development_tools/Anaconda3/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://D:/development_tools/Anaconda3/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/cookie.txt" />
+    <entry file="file://$PROJECT_DIR$/backup/compane_list_back.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/config/user_agent.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/Shareholders_infor.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/Shareholders_info_new.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/transfer.py" />
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/assetsChange/assetsChange/spiders/assets.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/compane_list.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/activate_compane_url.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/activate_compane_url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/out/espacise.txt" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/time_dict2.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/name_dict.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/time_dict.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/build_dict.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/config/company_url.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="339" column="21" selection-start-line="339" selection-start-column="5" selection-end-line="339" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/out/name_dict_new.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/error/error_list.json" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/site-packages/requests/api.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1454782952/lxml/etree/__init__.py" />
+    <entry file="file://D:/development_tools/Anaconda3/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/compane_list.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/out/compane_url.json" />
+    <entry file="file://$PROJECT_DIR$/assets_list/compane_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3057">
+          <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SoftWareInstall/Anaconda3/Lib/site-packages/docutils/io.py" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/xml/etree/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1807002779/lxml/etree/__init__.py" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/site-packages/selenium/webdriver/common/service.py" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/site-packages/selenium/webdriver/chrome/options.py" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://C:/D/SoftWareInstall/anaconda3/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1807002779/time.py" />
+    <entry file="file://D:/SoftWareInstall/Anaconda3/Lib/site-packages/openpyxl/reader/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/runcycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5460">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/shareholders_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="392" column="21" lean-forward="true" selection-start-line="392" selection-start-column="21" selection-end-line="392" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets_list/changes_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="322" column="37" selection-start-line="322" selection-start-column="37" selection-end-line="322" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

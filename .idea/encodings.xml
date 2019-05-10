@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assets_list/config/url_dict.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets_list/error/error_list.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets_list/out/activate_compane_url.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets_list/out/build_dict.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets_list/out/name_dict_new.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backup/build_dict.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backup/url_dict.json" charset="GBK" />
+  </component>
+</project>
